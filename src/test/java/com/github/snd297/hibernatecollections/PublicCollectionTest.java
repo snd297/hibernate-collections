@@ -179,6 +179,5 @@ public class PublicCollectionTest {
     } finally {
       HibernateUtil.closeQuietly(sess);
     }
-
   }
 }
